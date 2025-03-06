@@ -69,5 +69,5 @@
 
 
 
-## 🎸 Fun Fact
-- I enjoy a wide range of music, including **classic rock**, **alternative rock**, and **grunge**. Some of my favorite artists are **Nirvana**, **Ozzy Osbourne**, **Guns N' Roses**, and **Pink Floyd**. 🎶
+## 🎸 Did you know?
+- I can play guitar! and Some of my favorite artists are **Nirvana**, **Led Zeppelin**, **Ozzy Osbourne**, **Guns N' Roses**, and **Pink Floyd**. 🎶
