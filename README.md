@@ -19,5 +19,4 @@ I’m focused on **web development** and backend technologies using **Django**.
 
 ## 📂 Projects
 Here are some of my recent projects:
-- [Expense Tracker App](https://github.com/HnarimanH/ExpenseTracker) - A Python app to manage your expenses.
-- [Blog App](https://github.com/Nariman/BlogApp) - A simple blog app built with Django, featuring user authentication and CRUD functionality.
+- [Expense Tracker App](https://github.com/HnarimanH/Finance_app) - A Python app to manage your expenses.
