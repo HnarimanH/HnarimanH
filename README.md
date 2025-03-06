@@ -9,7 +9,7 @@ I’m focused on **web development** and backend technologies using **Django**.
 - 🔥 My goal: Master web development, with a strong focus on backend technologies, and contribute to open-source projects.
 
 ## 📈 GitHub Stats
-![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HnaarimanH_icons=true&theme=dark)
+![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HnaarimanH&show_icons=true&theme=dark)
 
 ## 🛠️ Skills & Technologies
 - **Languages**: Python, C#, HTML, CSS, JavaScript, Dart
