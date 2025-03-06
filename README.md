@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a expense manager website like my Finance app [Finance_app](https://github.com/HnarimanH/Finance_app)
 
-- 🌱 I’m currently learning Django and Vue for more sharp looking websites [Cat_vs_Dog_classification](https://github.com/HnarimanH/Cat_vs_Dog_Classification)
+- 🐈🐶 I made a cat and dog calssification model [Cat_vs_Dog_classification](https://github.com/HnarimanH/Cat_vs_Dog_Classification)
 
-- 👨‍💻 All of my projects are available at https://github.com/HnarimanH [telegram truth_or_dare bot](https://github.com/HnarimanH/telegram_bot)
+- 🤖 I made a Truth or Dare bot for telegram [telegram truth_or_dare bot](https://github.com/HnarimanH/telegram_bot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
