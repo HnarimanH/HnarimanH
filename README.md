@@ -69,5 +69,6 @@
 
 
 
-## 🎸 Did you know?
-- I can play guitar! and Some of my favorite artists are **Nirvana**, **Led Zeppelin**, **Ozzy Osbourne**, **Guns N' Roses**, and **Pink Floyd**. 🎶
+🎸 Did you know?
+I can play guitar! Some of my favorite artists are Nirvana, Led Zeppelin, Ozzy Osbourne, Guns N’ Roses, and Pink Floyd. 🎶
+Guess that means I’ve got a little bit of **TEEN SPIRIT** in me! 😎
