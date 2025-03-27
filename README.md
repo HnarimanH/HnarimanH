@@ -6,7 +6,7 @@
 ### 🧩 About Me:
 - 🎯 **Backend enthusiast** — because someone has to do the boring stuff.
 - 🎮 I like making games and websites that nobody asked for.
-- 🧑‍💻 Currently learning how to break the internet, one Django project at a time.
+- 🧑‍💻 Currently learning how to break the internet, one project at a time.
 - 🎸 Can play guitar better than I can explain recursion.
 - 🤷‍♂️ Still waiting for Elon Musk to hire me.
 
