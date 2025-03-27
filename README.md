@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nariman</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer and freelancer. I’m focused on web development and backend technologies. I like making games and websites.</h3>
 
-- 🔭 I’m currently working on an expense manager website like my Finance app [Finance_app](https://github.com/HnarimanH/Finance_app)
+- 🤑 I made a expense tracker website called [myExpenseTracker](https://expense-62a15.web.app/) i used firebase for the authentication of users and firestore to store users expenses.
+- "I made this so you can watch your money disappear in real time".
+  
+- 🔭 There is a python version too called [expenseTracker_app](https://github.com/HnarimanH/Finance_app) ""
 
-- 🐈🐶 I made a cat and dog classification model [Cat_vs_Dog_classification](https://github.com/HnarimanH/Cat_vs_Dog_Classification)
+- 🐈🐶 I also made a cat and dog classification model [Cat_vs_Dog_classification](https://github.com/HnarimanH/Cat_vs_Dog_Classification)
 
-- 🤖 I made a Truth or Dare bot for Telegram [telegram truth_or_dare bot](https://github.com/HnarimanH/telegram_bot)
+- 🤖 Want to play TRUTH OR DARE!!! well I made a [telegram truth_or_dare bot](https://github.com/HnarimanH/telegram_bot)
 
 
 
