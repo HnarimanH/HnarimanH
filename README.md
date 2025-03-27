@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer and freelancer. I’m focused on web development and backend technologies. I like making games and websites.</h3>
 
 - 🤑 I made a expense tracker website called [myExpenseTracker](https://expense-62a15.web.app/) i used firebase for the authentication of users and firestore to store users expenses.
-- "I made this so you can watch your money disappear in real time".
+  "I made this so you can watch your money disappear in real time".
   
 - 🔭 There is a python version too called [expenseTracker_app](https://github.com/HnarimanH/Finance_app) ""
 
