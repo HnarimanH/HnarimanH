@@ -78,12 +78,16 @@ Basically, I’m one bad day away from starting a garage band and abandoning tec
 
 ### 🔗 Connect with me:
 <a href="https://instagram.com/nariman_heathen" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nariman_heathen" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://t.me/narimanhosseinzadeh465" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" alt="Telegram" height="30" width="40" />
 </a>
-<a href="mailto:hosseinzadehnariman465@gmail.com" target="blank">
+<a href="https://rmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="40" />
 </a>
+<a href="https://github.com/HnarimanH" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+
 
