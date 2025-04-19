@@ -13,9 +13,7 @@
 ---
 
 ### 🚀 My Projects (a.k.a. Why you should stalk my repos):
-- 🌐 [**Portfolio Website**](https://im-a-wizard.netlify.app/)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+- 🌐 [**Portfolio Website**](https://im-a-wizard.netlify.app/)  
   → A magical place where I pretend to be a professional.  
   → Built to showcase apps, websites, and the chaos I call "projects".
 - 🤑 [**myExpenseTracker**](https://expense-62a15.web.app/)  
@@ -25,7 +23,7 @@
 - 🐍 [**Python Expense Tracker**](https://github.com/HnarimanH/Finance_app)  
   → Same thing, but desktop. Built with `customtkinter` because I hate myself.
 
-- 🐈🐶 [**Cat vs Dog Classification Model**](https://github.com/HnarimanH/Cat_vs_Dog_Classification)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+- 🐈🐶 [**Cat vs Dog Classification Model**](https://github.com/HnarimanH/Cat_vs_Dog_Classification)  
   → Can tell if it's a cat or a dog. Can’t tell why my life is a mess.
 
 - 🤖 [**Truth or Dare Telegram Bot**](https://github.com/HnarimanH/telegram_bot)  
