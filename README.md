@@ -86,6 +86,6 @@ Basically, I’m one bad day away from starting a garage band and abandoning tec
 <a href="https://github.com/HnarimanH" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-hosseinzadehnariman@gmail.com
+<br/>hosseinzadehnariman@gmail.com
 
 
