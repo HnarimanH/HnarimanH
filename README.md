@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I’m Nariman 👋</h1>
-<h2 align="center"> This is my [*portfolio*](https://im-a-wizard.netlify.app/), check it out!</h2>
 <h3 align="center">Self-proclaimed developer, freelancer, and professional overthinker who builds apps, websites, bots, and sometimes chaos.</h3>
 
 
@@ -14,6 +13,9 @@
 ---
 
 ### 🚀 My Projects (a.k.a. Why you should stalk my repos):
+- 🌐 [**Portfolio Website**](https://im-a-wizard.netlify.app/)  
+  → A magical place where I pretend to be a professional.  
+  → Built to showcase apps, websites, and the chaos I call "projects".
 - 🤑 [**myExpenseTracker**](https://expense-62a15.web.app/)  
   → A website to watch your money vanish in real-time.  
   → Uses Firebase because why not give Google *even more* of my data?
