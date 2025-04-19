@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I’m Nariman 👋</h1>
-<h2 align="center"> This is my [**portfolio**]([https://expense-62a15.web.app/](https://im-a-wizard.netlify.app/]) check it out!
+<h2 align="center"> This is my [**portfolio**]([https://im-a-wizard.netlify.app/]) check it out!
 <h3 align="center">Self-proclaimed developer, freelancer, and professional overthinker who builds apps, websites, bots, and sometimes chaos.</h3>
 
 
