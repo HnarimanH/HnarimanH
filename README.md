@@ -13,20 +13,26 @@
 ---
 
 ### 🚀 My Projects (a.k.a. Why you should stalk my repos):
-- 🌐 [**Portfolio Website**](https://im-a-wizard.netlify.app/)  
+- 🌐 [**I’m a Wizard (Portfolio)**](https://im-a-wizard.netlify.app/)  
+  → 💻 Tech: React and Custom CSS Animations  
   → A magical place where I pretend to be a professional.  
-  → Built to showcase apps, websites, and the chaos I call "projects".
+  → Contains stuff that might get me hired... hopefully.
+
 - 🤑 [**myExpenseTracker**](https://expense-62a15.web.app/)  
+  → 💻 Tech: Firebase, JavaScript, HTML and CSS  
   → A website to watch your money vanish in real-time.  
   → Uses Firebase because why not give Google *even more* of my data?
 
 - 🐍 [**Python Expense Tracker**](https://github.com/HnarimanH/Finance_app)  
+  → 💻 Tech: Python and CustomTkinter  
   → Same thing, but desktop. Built with `customtkinter` because I hate myself.
 
-- 🐈🐶 [**Cat vs Dog Classification Model**](https://github.com/HnarimanH/Cat_vs_Dog_Classification)  
+- 🐈🐶 [**Cat vs Dog Classifier**](https://github.com/HnarimanH/Cat_vs_Dog_Classification)  
+  → 💻 Tech: TensorFlow, OpenCV and Python(duh!?)
   → Can tell if it's a cat or a dog. Can’t tell why my life is a mess.
 
-- 🤖 [**Truth or Dare Telegram Bot**](https://github.com/HnarimanH/telegram_bot)  
+- 🤖 [**Truth or Dare Bot**](https://github.com/HnarimanH/telegram_bot)  
+  → 💻 Tech: Python and Telebot  
   → Not online because I’m too lazy, but the code is there.  
   → Play with your friends or lose them forever.
 
