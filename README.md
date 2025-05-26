@@ -18,14 +18,14 @@
   → A magical place where I pretend to be a professional.  
   → Contains stuff that might get me hired... hopefully.
 
+- 💆‍♂️ [**Align Therapy**](https://align-therapy.netlify.app/)
+  → 💻 Tech: React + Tailwind
+  → Align Therapy landingPage so I could have a peace of mind 
+
 - 🤑 [**myExpenseTracker**](https://expense-62a15.web.app/)  
   → 💻 Tech: Firebase, JavaScript, HTML and CSS  
   → A website to watch your money vanish in real-time.  
   → Uses Firebase because why not give Google *even more* of my data?
-
-- 🐍 [**Python Expense Tracker**](https://github.com/HnarimanH/Finance_app)  
-  → 💻 Tech: Python and CustomTkinter  
-  → Same thing, but desktop. Built with `customtkinter` because I hate myself.
 
 - 🐈🐶 [**Cat vs Dog Classifier**](https://github.com/HnarimanH/Cat_vs_Dog_Classification)  
   → 💻 Tech: TensorFlow, OpenCV and Python(duh!?)
