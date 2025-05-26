@@ -18,10 +18,10 @@
   → A magical place where I pretend to be a professional.  
   → Contains stuff that might get me hired... hopefully.
 
-- 💆‍♂️ [**Align Therapy**](https://align-therapy.netlify.app/)
+-	💆‍♂️ [**Align Therapy**](https://align-therapy.netlify.app/)
   → 💻 Tech: React + Tailwind
-  → Align Therapy landingPage so I could have a peace of mind 
-
+  → Align Therapy landing page — because even devs deserve peace of mind (and I needed one too before I lost it).
+  
 - 🤑 [**myExpenseTracker**](https://expense-62a15.web.app/)  
   → 💻 Tech: Firebase, JavaScript, HTML and CSS  
   → A website to watch your money vanish in real-time.  
